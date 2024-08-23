@@ -1,7 +1,7 @@
-#Customer Relationship Management (CRM) System for Agribusiness
+# Customer Relationship Management (CRM) System for Agribusiness
 The database created using a Bottom-up approach efficiently stores and manages information about suppliers, buyers, invoices, and associated charges, enabling businesses to track interactions, analyze sales data, and make informed decisions.
 
-##Files
+## Files
 
 ### 1. BDDA_Proj2.ipynb
 This file includes:
